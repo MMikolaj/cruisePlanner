@@ -27,6 +27,7 @@ clean_data <- Vectorize(function(x) {
 })
 
 
+
 ## extract names from a column where names are separated by /
 
 extract_names <- function(x) {

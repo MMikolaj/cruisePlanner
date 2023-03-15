@@ -8,6 +8,7 @@ library(googlesheets4)
 
 source("R/funs.R")
 
+
 #no need to authorize
 gs4_deauth()
 

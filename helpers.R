@@ -20,6 +20,7 @@ data <- data %>%
          `Time after station [h]`=as.numeric(`Time after station [h]`)
   )
 
+
 data$`Time on station [h]`
 
 data %>% 
